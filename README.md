@@ -1,2 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anullihate&count_private=true&show_icons=true&theme=dracula)](https://github.com/anullihate)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anullihate&layout=compact&theme=dracula)](https://github.com/anullihate)
+## Hey, I'm Clark Dwain — Software Developer
+
+<img height='170em' src='https://github-readme-stats.vercel.app/api?username=anullihate&count_private=true&show_icons=true&theme=dracula'>
+<img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=anullihate&layout=compact&theme=dracula'>
